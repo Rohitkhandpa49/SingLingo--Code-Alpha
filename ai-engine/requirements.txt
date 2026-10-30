@@ -1,0 +1,7 @@
+numpy>=1.26,<3
+opencv-contrib-python>=4.10,<6
+mediapipe>=0.10.20,<0.11
+torch>=2.5,<3
+scikit-learn>=1.6,<2
+openai-whisper>=20240930
+pytest>=8.3,<9
